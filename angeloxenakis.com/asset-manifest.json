@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56f6773c.css",
+    "main.js": "/static/js/main.6a8e251c.js",
+    "static/js/787.85ca329c.chunk.js": "/static/js/787.85ca329c.chunk.js",
+    "static/media/angelo-kickboxing.png": "/static/media/angelo-kickboxing.23de3b33148abc0a4c91.png",
+    "static/media/angelo-and-sons.png": "/static/media/angelo-and-sons.65a831005b5c8382a751.png",
+    "static/media/angelo-guitar.png": "/static/media/angelo-guitar.83530eba7c3bfbdb7db4.png",
+    "static/media/angelo-skating.png": "/static/media/angelo-skating.abf23ca6f5bc493cc329.png",
+    "static/media/angelo-prayer.png": "/static/media/angelo-prayer.26588ef5ac52e1a59e4c.png",
+    "static/media/background.jpg": "/static/media/background.f40431906fd9dadb642f.jpg",
+    "static/media/resume-icon.svg": "/static/media/resume-icon.b540de8d0828c39fc13377d06d388c98.svg",
+    "static/media/dark-mode-icon.svg": "/static/media/dark-mode-icon.f64613a3c1534210257484de7d2b5748.svg",
+    "static/media/home-icon.svg": "/static/media/home-icon.a299232c0dd751d62d1d3073e94e7f09.svg",
+    "static/media/light-mode-icon.svg": "/static/media/light-mode-icon.f6eac9013e2940ec477987c2c7edd2b2.svg",
+    "static/media/about-icon.svg": "/static/media/about-icon.a7f00fbeeca4034ae801f2e626e832d4.svg",
+    "index.html": "/index.html",
+    "static/media/download-icon-drk.svg": "/static/media/download-icon-drk.d0c30b1e1ed80d5e267827b39d3092e3.svg",
+    "static/media/download-icon.svg": "/static/media/download-icon.bdbfe79a5c8a72c17cf80714ccf4a046.svg",
+    "static/media/connect-icon.svg": "/static/media/connect-icon.be5851f5d74e2afddff88c2710e1a068.svg",
+    "main.56f6773c.css.map": "/static/css/main.56f6773c.css.map",
+    "main.6a8e251c.js.map": "/static/js/main.6a8e251c.js.map",
+    "787.85ca329c.chunk.js.map": "/static/js/787.85ca329c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56f6773c.css",
+    "static/js/main.6a8e251c.js"
+  ]
+}
